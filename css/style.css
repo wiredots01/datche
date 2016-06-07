@@ -1,0 +1,114 @@
+.brand {
+	margin: 30px 0 0 0;
+}
+
+.logo-bg {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.logo {
+	background-color: #da292e;
+	width: 200px;
+	text-align: center;
+	color: #ffffff;
+	padding:5px 10px 5px 10px;
+}
+
+.quote {
+	text-align: right;
+	margin: 0 0 30px 0;
+}
+
+.division {
+	margin: 0 0 40px 0;
+}
+
+.div-form {
+	background-color: #e5e5e7;
+	vertical-align: center;
+}
+
+.div-title {
+	padding:5px 10px 0 10px;
+}
+
+.inpt-first {
+	margin: 0 0 10px 0;
+}
+
+.item-cat {
+	margin: 0 0 10px 0;
+}
+
+.itm {
+	padding: 0 0 0 50px;
+	margin: 0 0 10px 0;
+}
+
+.des-btns {
+	margin: 0 0 10px 0;	
+}
+
+.des-specs {
+	margin: 0 0 10px 0;
+	padding: 0 100px; 0 0;
+}
+
+.des-item {
+	margin: 0 0 10px 0;
+	padding: 0 50px;
+}
+
+.itm-cat2 {
+	margin:100px 0 0 0;
+}
+
+.nterms {
+	margin: 0 0 40px 0;
+}
+
+.gnrt {
+	text-align: right;
+	margin: 30px 0 50px 0;
+}
+
+.prep {
+	margin: 0 0 30px 0;
+}
+
+.qt {
+	border:1px solid #000000;
+	width: 550px;
+	padding: 15px 5px 15px 7px;
+	margin: 20px 0 0 0;
+}
+
+.btn-crt {
+	text-align: right;
+	margin: 20px 0 20px 0;
+}
+
+.head-color th {
+	background-color: #da292e;
+	text-align: center;
+	color: #ffffff;	
+}
+
+.btn-edt {
+	border-radius: 20px;
+}
+
+.head-cont td {
+	text-align: center;
+}
+
+.form-signin {
+	max-width: 330px;
+	margin: 0 auto;
+	padding: 20px 0 0 0;
+}
+
+.form-signin h2 {
+	text-align: center;
+}
